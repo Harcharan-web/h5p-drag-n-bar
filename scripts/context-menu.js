@@ -102,7 +102,8 @@ H5P.DragNBarContextMenu = (function ($, EventDispatcher) {
       {name: 'Edit', label: H5PEditor.t('H5P.DragNBar', 'editLabel')},
       {name: 'BringToFront', label: H5PEditor.t('H5P.DragNBar', 'bringToFrontLabel')},
       {name: 'SendToBack', label: H5PEditor.t('H5P.DragNBar', 'sendToBackLabel')},
-      {name: 'Remove', label: H5PEditor.t('H5P.DragNBar', 'removeLabel')}
+      {name: 'Remove', label: H5PEditor.t('H5P.DragNBar', 'removeLabel')},
+      {name: 'Animate', label: H5PEditor.t('H5P.DragNBar', 'animate')},
     ];
 
     if (!disableCopy) {

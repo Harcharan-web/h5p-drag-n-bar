@@ -4,6 +4,7 @@
     "editLabel": "Edit",
     "removeLabel": "Remove",
     "bringToFrontLabel": "Bring to Front",
+    "animate": "Animate",
     "sendToBackLabel": "Send to Back",
     "unableToPaste": "Cannot paste this object. Unfortunately, the object you are trying to paste is not supported by this content type or version.",
     "sizeLabel": "Size",
